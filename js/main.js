@@ -273,7 +273,7 @@
               // Show footer, header.
                 $footer.show();
                 $header.show();
-                $languages.show();
+               $languages.show();
 
               // Unmark as visible.
                 setTimeout(function() {

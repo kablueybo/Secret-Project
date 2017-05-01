@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://example.org/de/sitemap.xml</loc>
-		
-	   	<lastmod>2017-03-02T11:59:27-05:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://augustcapsule.com/#august</loc>
+    <lastmod>2017-05-01T21:51:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://augustcapsule.com/#autumn</loc>
+    <lastmod>2017-05-01T22:00:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://augustcapsule.com/#winter</loc>
+    <lastmod>2017-05-01T22:00:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://augustcapsule.com/#spring</loc>
+    <lastmod>2017-05-01T22:00:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://augustcapsule.com/#</loc>
+    <lastmod>2017-05-01T21:51:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://augustcapsule.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://augustcapsule.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
