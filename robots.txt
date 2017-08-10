@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://augustcapsule.com/sitemap.xml
